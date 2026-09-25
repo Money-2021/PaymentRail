@@ -2,6 +2,7 @@
 Payment Rail is a national RTGS solutionm, protected via Information Theoretiuc Secured digital Coinm against unauthorized access, disclosure, use, censorship, alteration or disruption.
 Key Features of National RTGS Systems
 Real-Time Settlement: Transactions are instantly (sub-second) processed and settled continuously 24x7x365.
+Every single transaction is settled on a one-to-one basis without bundling or netting debits and credits against other payments.
 Final and Irrevocable: Once processed through settlement (change in posession over each Coin), the payment is final and cannot be reversed or unwound.
 
 
