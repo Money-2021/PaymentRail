@@ -1,5 +1,5 @@
 # A national Real-Time Gross Settlement (RTGS) system.
-Payment Rail is a national RTGS solutionm, protected via Information Theoretiic Secured digital Coinm against unauthorized access, disclosure, use, censorship, alteration or disruption.
+Payment Rail is a national RTGS solutionm, protected via Information Theoretiic Secured digital Coin against unauthorized access, disclosure, use, censorship, alteration or disruption.
 Key Features of National RTGS Systems
 Real-Time Settlement: Transactions are instantly (sub-second) processed and settled continuously 24x7x365.
 Every single transaction is settled on a one-to-one basis without bundling or netting debits and credits against other payments.
