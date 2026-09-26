@@ -6,7 +6,7 @@ Every single transaction is settled on a one-to-one basis without bundling or ne
 Final and Irrevocable: Once processed through settlement (change in posession over each Coin), the payment is final and cannot be reversed or unwound.
 
 The National Real-Time Gross Settlement (RTGS) systems is offered to both Central Banks and Private Ecomomic Entities.
-Private and Non-Bank Participation RTGS systems process high-value, time-critical interbank and retial payment transfers where settlement is instant (sub second), globally final, and irrevocable, eliminating systemic settlement risk, to national inter bank and a nations P2P payments.
+Private and Non-Bank Participants as well as Central Banks (subject to national laws) can now via the Coin based RTGS systems process high-value, time-critical interbank and retil payment transfers where settlement is instant (sub second), globally final, and irrevocable, eliminating systemic settlement risk, to national inter bank and a nations P2P payments.
 Final settlement occurs via redeem,able on demand in digital Gold, as universal tangible personal property (the Coin)between Secure Identities, no bank or Exchaneg Settlement accounts are required.
 
 Payment Client
