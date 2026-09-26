@@ -8,6 +8,7 @@ Final and Irrevocable: Once processed through settlement (change in posession ov
 The National Real-Time Gross Settlement (RTGS) systems is offered to both Central Banks and Private Ecomomic Entities.
 Private and Non-Bank Participants as well as Central Banks (subject to national laws) can now via the Coin based RTGS systems process high-value, time-critical interbank and retil payment transfers where settlement is instant (sub second), globally final, and irrevocable, eliminating systemic settlement risk, to national inter bank and a nations P2P payments.
 Final settlement occurs via redeem,able on demand in digital Gold, as universal tangible personal property (the Coin)between Secure Identities, no bank or Exchaneg Settlement accounts are required.
+The RTGS supports all payment including micro-payments as the Coin has zero feess as P2P, and has zero spread for cross currecnies due to spot price on Gold.
 
 Payment Client
 Client source code. The SDK is a set of Visual Studio 2026 Unit test cases, which can be executed from within Visual Studio, without the need for any further application development. 
