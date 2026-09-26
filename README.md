@@ -1,14 +1,7 @@
 # A national Real-Time Gross Settlement (RTGS) system.
-Payment Rail is a national RTGS solutionm, protected via Information Theoretiic Secured digital Coin against unauthorized access, disclosure, use, censorship, alteration or disruption.
-Key Features of National RTGS Systems
-Real-Time Settlement: Transactions are instantly (sub-second) processed and settled continuously 24x7x365.
-Every single transaction is settled on a one-to-one basis without bundling or netting debits and credits against other payments.
-Final and Irrevocable: Once processed through settlement (change in posession over each Coin), the payment is final and cannot be reversed or unwound.
+Payment Rail is a national RTGS solution, protected via Information Theoretic Secured digital Coin against unauthorized access, disclosure, use, censorship, alteration or disruption. Key Features of National RTGS Systems Real-Time Settlement: Transactions are instantly (sub-second) processed and settled continuously 24x7x365. Every single transaction is settled on a one-to-one basis without bundling or netting debits and credits against other payments. Final and Irrevocable: Once processed through settlement (change in possession over each Coin), the payment is final and cannot be reversed or unwound.
 
-The National Real-Time Gross Settlement (RTGS) systems is offered to both Central Banks and Private Ecomomic Entities.
-Private and Non-Bank Participants as well as Central Banks (subject to national laws) can now via the Coin based RTGS systems process high-value, time-critical interbank and retil payment transfers where settlement is instant (sub second), globally final, and irrevocable, eliminating systemic settlement risk, to national inter bank and a nations P2P payments.
-Final settlement occurs via redeem,able on demand in digital Gold, as universal tangible personal property (the Coin)between Secure Identities, no bank or Exchaneg Settlement accounts are required.
-The RTGS supports all payment including micro-payments as the Coin has zero feess as P2P, and has zero spread for cross currecnies due to spot price on Gold.
+The National Real-Time Gross Settlement (RTGS) systems is offered to both Central Banks and Private Economic Entities. Private and Non-Bank Participants as well as Central Banks (subject to national laws) can now via the Coin based RTGS systems process high-value, time-critical interbank and retail payment transfers where settlement is instant (sub second), globally final, and irrevocable, eliminating systemic settlement risk, to national inter bank and a nations P2P payments. Final settlement occurs via redeemable on demand in digital Gold, as universal tangible personal property (the Coin)between Secure Identities, no bank or Exchange Settlement accounts are required. The RTGS supports all payment including micro-payments as the Coin has zero fees as P2P, and has zero spread for cross currencies due to spot price on Gold.
 
 Payment Client
 Client source code. The SDK is a set of Visual Studio 2026 Unit test cases, which can be executed from within Visual Studio, without the need for any further application development. 
